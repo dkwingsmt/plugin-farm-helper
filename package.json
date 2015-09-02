@@ -1,0 +1,20 @@
+{
+  "name": "farm-helper",
+  "version": "0.0.1",
+  "description": "Prevent stupid choices when obssessed by farming. Now only supports E3.",
+  "main": "index.cjsx",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkwingsmt/plugin-farm-helper.git"
+  },
+  "author": "DKWings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkwingsmt/plugin-farm-helper/issues"
+  },
+  "homepage": "https://github.com/dkwingsmt/plugin-farm-helper#readme",
+  "dependencies": {
+  }
+}
